@@ -5,16 +5,12 @@ canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Evan Mackay
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Software Devloper"
+  email:          etm@ieee.org
+  github:         evantm
+  location:       "Vancouver, BC"
   # Plug in your disqus shortname!
 
 tools:
@@ -31,10 +27,7 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+    url: https://github.com/evantm
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
